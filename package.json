@@ -43,8 +43,8 @@
     }
   },
   "dependencies": {
-    "@sentry/browser": "^5",
-    "@sentry/integrations": "^5",
+    "@sentry/browser": "5.30.0",
+    "@sentry/integrations": "5.30.0",
     "@sentry/node": "^6.2.5",
     "@sentry/webpack-plugin": "^1.15.0",
     "consola": "^2.15.3",
